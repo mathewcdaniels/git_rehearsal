@@ -1,0 +1,6 @@
+PRACTICE:
+
+1. Config, both local and global
+2. Staging and committing
+3. branching and merging
+4. Checking history, diffs, and logs
