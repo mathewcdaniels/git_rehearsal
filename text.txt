@@ -1,3 +1,5 @@
 This is just an additional text document to add to the repository.
 
 Now I am making changes to this document on a branch to try to merge it.
+
+Now Galen Gaffner is making changes and submitting a request for Matt to accept the changes.
